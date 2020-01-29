@@ -1,0 +1,18 @@
+.t-nav{
+    background-color: black;
+}
+
+.t-nav a{
+    color:#ff9426;
+}
+
+.t-nav a:hover{
+    color:#ffffff;
+}
+
+
+
+
+/* .t-nav>div>a{
+    color: #f5e6d9 !important;
+} */
